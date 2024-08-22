@@ -1,9 +1,11 @@
 **Excel - Sales and Finance Analytics Project for AtliQ Hardwares**
 
 **Problem Statement**
+
 AtliQ Hardwares, a leading company in the hardware industry, specializing in PCs, printers, mice, and computers, faces a significant challenge in optimizing its sales and improving net gross margins. The company has a vast and unorganized dataset comprising over half a million sales records that require extensive analysis.
 
 **Project Goal**
+
 The goal of this project is to analyze AtliQ Hardwares' sales data to uncover strategic insights that will enable the company to make informed decisions. By effectively tracking key performance indicators (KPIs), the project aims to drive substantial improvements in the company’s performance, particularly in net sales and net gross margin.
 
 **Why This Project Matters**
@@ -14,6 +16,7 @@ Unlocking the potential within this dataset is crucial for maximizing AtliQ Hard
 **Project 1: Sales Analysis and Reporting**
 
 **Objective:**
+
 Developed a comprehensive customer performance report.
 Conducted an in-depth comparison of market performance and sales targets.
 
@@ -40,6 +43,7 @@ Contributed to benchmarking against industry peers and established a foundation 
 
 
 **Technical Skills:**
+
 Proficient in ETL methodology (Extract, Transform, Load).
 Skilled in generating date tables using Power Query.
 Experienced in deriving fiscal months and quarters.
@@ -48,6 +52,7 @@ Adept at incorporating supplementary data into existing data models.
 Skilled in using DAX to create calculated columns.
 
 **Soft Skills:**
+
 Strong understanding of Sales and Finance Reports.
 Capable of designing user-centric reports with empathy in mind.
 Experienced in optimizing report generation through meticulous fine-tuning.
